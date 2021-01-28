@@ -17,7 +17,7 @@ class _HomePageState extends State<HomePage> {
         centerTitle: true,
       ),
       body: Center(
-        child: Text("Hello Nilogithan"),
+        child: Text("Hello Vithushan"),
       ),
     );
   }
